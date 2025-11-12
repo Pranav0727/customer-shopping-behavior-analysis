@@ -18,7 +18,7 @@ The workflow includes:
 ---
 
 ## 🧰 Tech Stack  
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Programming:** Python (Pandas)
 - **Database:** MySQL  
 - **Visualization:** Power BI  
 - **Environment:** Jupyter Notebook  
