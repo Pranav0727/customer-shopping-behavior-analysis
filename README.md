@@ -54,6 +54,7 @@ The workflow includes:
 🔹 4. Power BI Dashboard
 
    - Connect Power BI to MySQL database.
+     
    - Build interactive visualizations and KPIs.
 
 
