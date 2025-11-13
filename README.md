@@ -57,6 +57,15 @@ The workflow includes:
      
    - Build interactive visualizations and KPIs.
 
+     
+---
+
+## 🧰 Dashboard
+
+
+   <img width="1323" height="746" alt="image" src="https://github.com/user-attachments/assets/80386ac9-e356-4c21-8f45-ef4f26c96760" />
+
+
 
 
 
